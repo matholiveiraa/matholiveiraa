@@ -3,9 +3,9 @@
 <h5>HTML | CSS | PHP | JAVASCRIPT | PYTHON | C# | SQL | UI/UX </h5>
 <div>
   <ul>
-    <li>Informática</li>
-    <li>Desenvolvimento de Sistemas</li>
     <li>Engenharia de Software</li>
+    <li>Desenvolvimento de Sistemas</li>
+    <li>Informática</li>
   </ul>
 </div>
 
