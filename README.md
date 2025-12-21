@@ -1,6 +1,6 @@
 <h1>Buongiorno!!</h1>
 <h3>Me chamo Matheus!</h3>
-<h5>HTML | CSS | PHP | JAVASCRIPT | C# | PYTHON | REACT </h5>
+<h5>HTML | CSS | PHP | JAVASCRIPT | PYTHON | C# | SQL </h5>
 <div>
   <ul>
     <li>Informática</li>
