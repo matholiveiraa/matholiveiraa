@@ -5,7 +5,6 @@
   <ul>
     <li>Engenharia de Software</li>
     <li>Desenvolvimento de Sistemas</li>
-    <li>Informática</li>
   </ul>
 </div>
 
